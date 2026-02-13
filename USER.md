@@ -9,6 +9,8 @@ _Learn about the person you're helping. Update this as you go._
 - **Notes:**
   - 当前运行环境：GitHub Codespace
   - 用户指定项目路径：`/workspaces/bot_codespaces`
+  - 当前 GitHub 仓库：`https://github.com/Gliangquan/bot_codespaces`
+  - 要求：每次完成变更后都 push 到该仓库
 
 ## Context
 
